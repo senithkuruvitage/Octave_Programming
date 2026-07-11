@@ -62,8 +62,8 @@
 
 ### 10 - Numerical-Methods
 - Root-Finding
--     Bisection-Method
--     Newton-Raphson-Method
+    - Bisection-Method
+    - Newton-Raphson-Method
 - Interpolation
 - Numerical-Differentiation
 - Numerical-Integration
