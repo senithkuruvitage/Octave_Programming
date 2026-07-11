@@ -40,21 +40,21 @@
 - Numerical-Integration
   
 ### 07 - Differential Equations
-│   ├── First-Order
-│   ├── Second-Order
-│   └── Euler-Method
-│
-├── 08-Probability
-│   ├── Basic-Probability
-│   ├── Conditional-Probability
-│   ├── Bayes-Theorem
-│   ├── Random-Variables
-│   └── Probability-Distributions
-│
-├── 09-Statistics
-│   ├── Mean
-│   ├── Median
-│   ├── Mode
+- First-Order
+- Second-Order
+- Euler-Method
+
+### 08 - Probability
+- Basic-Probability
+- Conditional-Probability
+- Bayes-Theorem
+- Random-Variables
+- Probability-Distributions
+
+### 09 - Statistics
+- Mean
+- Median
+- Mode
 │   ├── Variance
 │   ├── Standard-Deviation
 │   ├── Correlation
