@@ -55,19 +55,19 @@
 - Mean
 - Median
 - Mode
-│   ├── Variance
-│   ├── Standard-Deviation
-│   ├── Correlation
-│   └── Regression
-│
-├── 10-Numerical-Methods
-│   ├── Root-Finding
-│   │   ├── Bisection-Method
-│   │   └── Newton-Raphson-Method
-│   ├── Interpolation
-│   ├── Numerical-Differentiation
-│   └── Numerical-Integration
-│
+- Variance
+- Standard-Deviation
+- Correlation
+- Regression
+
+### 10 - Numerical-Methods
+- Root-Finding
+-     Bisection-Method
+-     Newton-Raphson-Method
+- Interpolation
+- Numerical-Differentiation
+- Numerical-Integration
+
 ├── 11-Optimization
 │   ├── Linear-Programming
 │   ├── Simplex-Method
