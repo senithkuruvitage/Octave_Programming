@@ -1,16 +1,16 @@
 # Octave Programming 💻
 
-### 01 - Basic Mathematics
+## 01 - Basic Mathematics
 - Arithmetic-Operations - Algebra - Equations - Inequalities - Polynomials
 
-### 02 - Functions
+## 02 - Functions
 - Types of Functions - Domain and Range - Composite Functions - Inverse Functions - Exponential and Logarithmic Functions
 
-### 03 - Complex Numbers 
+## 03 - Complex Numbers 
 - Imaginary-Numbers - Complex-Arithmetic - Polar-Form
 - Eulers-Formula
 
-### 04 - Matrices & Linear Algebra
+## 04 - Matrices & Linear Algebra
 - Vectors
 - Matrix-Operations
 - Determinants
