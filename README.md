@@ -1,4 +1,4 @@
-# Octave Programming
+# Octave Programming 💻
 
 ### 01 - Basic Mathematics
 - Arithmetic-Operations - Algebra - Equations - Inequalities - Polynomials
@@ -68,62 +68,61 @@
 - Numerical-Differentiation
 - Numerical-Integration
 
-├── 11-Optimization
-│   ├── Linear-Programming
-│   ├── Simplex-Method
-│   └── Optimization-Problems
-│
-├── 12-Graph-Theory
-│   ├── Graphs
-│   ├── Trees
-│   ├── Shortest-Path
-│   └── Network-Problems
-│
-├── 13-Discrete-Mathematics
-│   ├── Sets
-│   ├── Relations
-│   ├── Sequences
-│   ├── Recurrence-Relations
-│   ├── Logic
-│   └── Combinatorics
-│
-├── 14-Fourier-Analysis
-│   ├── Fourier-Series
-│   ├── Fourier-Transform
-│   └── Signal-Analysis
-│
-├── 15-Laplace-Transform
-│   ├── Laplace-Transform
-│   ├── Inverse-Laplace-Transform
-│   └── Solving-Differential-Equations
-│
-├── 16-Vector-Calculus
-│   ├── Gradient
-│   ├── Divergence
-│   └── Curl
-│
-├── 17-Coordinate-Geometry
-│   ├── Lines
-│   ├── Planes
-│   ├── Circles
-│   └── Three-Dimensional-Geometry
-│
-├── 18-Series
-│   ├── Arithmetic-Series
-│   ├── Geometric-Series
-│   ├── Taylor-Series
-│   └── Maclaurin-Series
-│
-├── 19-Mathematical-Modeling
-│   ├── Mathematical-Models
-│   ├── Simulation
-│   └── Curve-Fitting
-│
-├── 20-Data-Visualization
-│   ├── Two-Dimensional-Plots
-│   ├── Three-Dimensional-Plots
-│   ├── Surface-Plots
-│   ├── Histograms
-│   └── Scatter-Plots
-│
+### 11 - Optimization
+- Linear-Programming
+- Simplex-Method
+- Optimization-Problems
+
+### 12 - Graph-Theory
+- Graphs
+- Trees
+- Shortest-Path
+- Network-Problems
+
+### 13 - Discrete-Mathematics
+- Sets
+- Relations
+- Sequences
+- Recurrence-Relations
+- Logic
+- Combinatorics
+
+### 14 - Fourier-Analysis
+- Fourier-Series
+- Fourier-Transform
+- Signal-Analysis
+
+### 15 - Laplace-Transform
+- Laplace-Transform
+- Inverse-Laplace-Transform
+- Solving-Differential-Equations
+
+### 16 - Vector-Calculus
+- Gradient
+- Divergence
+- Curl
+
+### 17 - Coordinate-Geometry
+- Lines
+- Planes
+- Circles
+- Three-Dimensional-Geometry
+
+### 18 - Series
+- Arithmetic-Series
+- Geometric-Series
+- Taylor-Series
+- Maclaurin-Series
+
+### 19 - Mathematical-Modeling
+- Mathematical-Models
+- Simulation
+- Curve-Fitting
+
+### 20 - Data-Visualization
+- Two-Dimensional-Plots
+- Three-Dimensional-Plots
+- Surface-Plots
+- Histograms
+- Scatter-Plots
 
