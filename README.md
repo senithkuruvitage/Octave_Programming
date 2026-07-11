@@ -1,5 +1,3 @@
-# Octave_Programming
-
 octave-programming/
 │
 ├── 01-Basic-Mathematics
@@ -126,8 +124,18 @@ octave-programming/
 │   └── Curve-Fitting
 │
 ├── 20-Data-Visualization
-    ├── *Two-Dimensional-Plots
-    ├──  Three-Dimensional-Plots
-    ├──  Surface-Plots
-    ├──  Histograms
-    └──  Scatter-Plots*
+│   ├── Two-Dimensional-Plots
+│   ├── Three-Dimensional-Plots
+│   ├── Surface-Plots
+│   ├── Histograms
+│   └── Scatter-Plots
+│
+├── 21-Lab-Exercises
+├── 22-Assignments
+├── 23-Mini-Projects
+├── Resources
+│   ├── Cheat-Sheets
+│   ├── Lecture-Notes
+│   └── References
+│
+└── README.md
