@@ -1,10 +1,8 @@
 ## 01 - Basic Mathematics
-
--- Arithmetic-Operations - Algebra - Equations - Inequalities - Polynomials
+- Arithmetic-Operations - Algebra - Equations - Inequalities - Polynomials
 
 ## 02 - Functions
-
--- Types of Functions - Domain and Range - Composite Functions - Inverse Functions - Exponential and Logarithmic Functions
+- Types of Functions - Domain and Range - Composite Functions - Inverse Functions - Exponential and Logarithmic Functions
 
 ## 03 - Complex Numbers 
 - Imaginary-Numbers - Complex-Arithmetic - Polar-Form - Eulers Formula
