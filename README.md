@@ -1,49 +1,49 @@
-#### Octave Programming
+### Octave Programming
 
-### 01-Basic-Mathematics
+### 01 - Basic Mathematics
 - Arithmetic-Operations
 - Algebra
 - Equations
 - Inequalities
 - Polynomials
-  
-### 02-Functions
+
+### 02 - Functions
 - Types-of-Functions
 - Domain-and-Range
 - Composite-Functions
 - Inverse-Functions
 - Exponential-and-Logarithmic-Functions
 
-###  03-Complex-Numbers
-│   ├── Imaginary-Numbers
-│   ├── Complex-Arithmetic
-│   ├── Polar-Form
-│   └── Eulers-Formula
-│
-├── 04-Matrices-and-Linear-Algebra
-│   ├── Vectors
-│   ├── Matrix-Operations
-│   ├── Determinants
-│   ├── Inverse-Matrix
-│   ├── Matrix-Rank
-│   ├── Systems-of-Linear-Equations
-│   ├── Eigenvalues
-│   └── Eigenvectors
-│
-├── 05-Calculus
-│   ├── Limits
-│   ├── Continuity
-│   ├── Differentiation
-│   ├── Partial-Differentiation
-│   └── Applications-of-Derivatives
-│
-├── 06-Integration
-│   ├── Indefinite-Integrals
-│   ├── Definite-Integrals
-│   ├── Multiple-Integrals
-│   └── Numerical-Integration
-│
-├── 07-Differential-Equations
+### 03 - Complex Numbers
+- Imaginary-Numbers
+- Complex-Arithmetic
+- Polar-Form
+- Eulers-Formula
+
+### 04 - Matrices & Linear Algebra
+- Vectors
+- Matrix-Operations
+- Determinants
+- Inverse-Matrix
+- Matrix-Rank
+- Systems-of-Linear-Equations
+- Eigenvalues
+- Eigenvectors
+  
+### 05 - Calculus
+- Limits
+- Continuity
+- Differentiation
+- Partial-Differentiation
+- Applications-of-Derivatives
+
+### 06 - Integration
+- Indefinite-Integrals
+- Definite-Integrals
+- Multiple-Integrals
+- Numerical-Integration
+  
+### 07 - Differential Equations
 │   ├── First-Order
 │   ├── Second-Order
 │   └── Euler-Method
