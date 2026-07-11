@@ -1,8 +1,7 @@
 # Octave Programming
 
 ### 01 - Basic Mathematics
-- Arithmetic-Operations
-- Algebra
+- Arithmetic-Operations             - Algebra
 - Equations
 - Inequalities
 - Polynomials
