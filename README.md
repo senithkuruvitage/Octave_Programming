@@ -60,5 +60,5 @@
 - Mathematical Models - Simulation - Curve Fitting
 
 ## 20 - Data Visualization
-- Two-Dimensional-Plots - Three Dimensional Plots - Surface Plots - Histograms - Scatter Plots
+- Two Dimensional Plots - Three Dimensional Plots - Surface Plots - Histograms - Scatter Plots
 
